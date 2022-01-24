@@ -20,5 +20,6 @@ Open the folder where you want to setup in vscode
 ```
 git clone https://github.com/The-Neon-Dev/ytdl.git
 ```
+Create project in Firebase and add SDK in index.html
 
-
+Last, do firebase login,init, and deploy(look firebase instructions)
