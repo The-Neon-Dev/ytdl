@@ -12,7 +12,7 @@ Before setup,use my own web app
 
 #### Without Firebase hosting
  
-<a href="https://github.com/The-Neon-Dev/ytdl/releases/tag/index"> Download index.html file in releases</a>
+<a href="https://github.com/The-Neon-Dev/ytdl/releases/tag/index"> Download index.html file in releases</a> and host where you want
 
 #### With Firebase Hosting
 
