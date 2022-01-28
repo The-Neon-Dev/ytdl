@@ -8,6 +8,12 @@ Before setup,use my own web app
  
 <a href="https://neon-ytdl.web.app">Preview</a>
 
+## Contribute
+
+The UI/UX is not good, is not responsive for mobile.If you can make pull request do it with extra features and better UI(User Interface).
+
+Contribute to this project to make this better
+
 # Setup
 
 #### Without Firebase hosting
@@ -22,4 +28,7 @@ git clone https://github.com/The-Neon-Dev/ytdl.git
 ```
 Create project in Firebase and add SDK in index.html
 
-Last, do firebase login,init, and deploy(look firebase instructions)
+Last, do firebase login,init, and deploy(look firebase instructions for web hosting)
+
+Thats all,
+I will make the Readme more easy to understand form in the future.
