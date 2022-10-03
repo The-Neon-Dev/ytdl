@@ -1,6 +1,6 @@
 # Neon YTDL
 
-Download youtube videos to mp3/mp4 with all qualities
+Download youtube videos to audio or video
 
 ### Preview
 
