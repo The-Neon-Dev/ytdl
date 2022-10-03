@@ -6,7 +6,7 @@ Download youtube videos to mp3/mp4 with all qualities
 
 Before setup,use my own web app
  
-<a href="https://neon-ytdl.web.app">Preview</a>
+<a href="https://neon-ytdl.web.app">https://neon-ytdl.web.app</a>
 
 ## Contribute
 
@@ -14,7 +14,7 @@ The UI/UX is not good, is not responsive for mobile.If you can make pull request
 
 Contribute to this project to make this better
 
-# Setup
+# Development
 
 #### Without Firebase hosting
  
